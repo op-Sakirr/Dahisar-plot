@@ -1,0 +1,6 @@
+{
+  "name": "Dahisar Realty Pro",
+  "description": "Leading real estate agency in Dahisar, Mumbai, offering expert property consulting for residential and commercial listings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
